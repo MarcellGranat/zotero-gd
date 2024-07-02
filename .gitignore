@@ -1,0 +1,9 @@
+*pdf
+.env
+*json
+wip*
+*pyc
+*md
+!README.md
+*bib
+*yaml
